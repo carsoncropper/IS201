@@ -1,0 +1,62 @@
+.tabheader{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+   
+}
+.tabfooter{
+    bottom: 5px;
+    height: 100px;
+    left: 5px;
+    right: 5px;
+    
+
+}
+.tabbody{
+    top: 120px;
+    bottom: 60;
+    left: 114px;
+    right: 114px;
+}
+.tabsubheader{
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+
+}
+.tabhead{
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
+.tabcommon{
+    background-color: white;
+    border: solid 2px black;
+    
+}
+.tabnav{
+    text-align: right;
+    float: right;
+    border-left: solid 3px gray;
+
+}
+.tabtitle{
+    font-weight: bold;
+    font-size: 25px;    
+    z-index: 1;
+    text-align: center;
+}
+.tabcaption{
+    font-size: 20px;
+    font-weight: bold;
+    color: darkblue;
+    text-align: center;
+    border-top: black 2px;
+    border-right: black 2px;
+    border-left: black 2px;
+    border-bottom: black 2px;
+}
+.centeringtab{
+    text-align: center;
+}

@@ -1,0 +1,69 @@
+.resumetitle{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.resumeheader{
+    top: 5px;
+    left: 5px;
+    font-style: normal;
+    font-size: 25px;    
+}
+
+.resumetext{
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(125, 170, 253);
+}
+    
+.centeringresume{
+    text-align: center;
+}
+
+.aboutmetext{
+font-size: 20px;
+color:gray;
+}
+.aboutmesub{
+font-size: 23px;
+text-align: center;
+font-style: italic;
+}
+.aboutmecap{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif  ;
+    color: gray;
+}
+.aboutmefoot{
+    text-decoration: underline;
+    font-size: 15px;
+    font-style: italic;
+}
+.homeBYU{
+    font-size: 20;
+    font-weight: bold;
+    color: darkblue;
+}
+.homeitalic{
+    font-style: italic;
+}
+.hometitle{
+    font-weight: bold;
+    font-size: 40px;
+    color: black;
+    text-decoration: underline;
+}
+.homecenter{
+    text-align: center;
+
+}
+.homeunderline{
+    text-decoration: underline;
+}
+.homesmalltext{
+    font-size: 15px;
+}
+
+
+
